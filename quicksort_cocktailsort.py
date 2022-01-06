@@ -11,6 +11,7 @@ import itertools
 # KELAS IF-44-09
 # KELOMPOK 16
 # Fahri Sunarya (1301204196)
+# Fachrul Febriana (1301204407)
 
 # Arguments parsing
 parser = argparse.ArgumentParser(description="Sorting algorithms visualization by Broksy")
